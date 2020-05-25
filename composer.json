@@ -1,6 +1,6 @@
 {
   "name": "ritaswc/sm",
-  "description": "国密算法PHP软件实现版",
+  "description": "国密加密算法PHP软件实现版",
   "type": "library",
   "license": "MIT",
   "authors": [
