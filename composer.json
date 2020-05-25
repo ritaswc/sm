@@ -1,0 +1,21 @@
+{
+  "name": "charles/sm",
+  "description": "国密算法PHP软件实现版",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Charles",
+      "email": "ritaswc@163.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ritaswc\\SM\\": "src"
+    }
+  }
+}
