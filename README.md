@@ -2,6 +2,10 @@
 
 ##### 使用方法
 
+```shell script
+composer require ritaswc/sm
+```
+
 ```php
 $helper = new \Ritaswc\SM\SM4();
 echo $helper->encrypt('this is key', 'PHP是世界上最好的语言');
