@@ -10,8 +10,6 @@ echo $helper->decrypt('this is key', 'TFK6KUnXe7/DLovioxZvU8G8GwcxXTf93GxR0mMiFt
 ```
 ##### 结果是
 ```shell script
-php index.php
-
 TFK6KUnXe7/DLovioxZvU8G8GwcxXTf93GxR0mMiFts=
 PHP是世界上最好的语言
 ```
@@ -20,4 +18,4 @@ PHP是世界上最好的语言
 - [Charles的小星球](https://blog.yinghualuo.cn)
 
 ## License
-SM is licensed under [MIT](https://github.com/ritaswc/zx_ip_address/blob/master/LICENSE).
+SM is licensed under [MIT](https://github.com/ritaswc/sm/blob/master/LICENSE).
